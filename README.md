@@ -1,6 +1,4 @@
 
----
-
 # 📌 **README Template 2: Coupon Portal (Django)**
 
 ```markdown
@@ -27,7 +25,7 @@ It allows users to manage coupons with full CRUD operations.
 ---
 
 ## 📸 Screenshots
-C:\Users\shiji\coupon_task\screenshot\img.png
+
 
 ---
 
